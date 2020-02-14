@@ -40,13 +40,13 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-   orcidid: 0000-0002-1769-8631
-   googlescholar: 9sa6KNwAAAAJ
-   researchgate: James_Bernot
    twitter: JP_Bernot
   # unsplash: your_username
   # vk: your_username
    website: https://cbi.gwu.edu/jimmy-bernot
+   orcidid: 0000-0002-1769-8631
+   googlescholar: 9sa6KNwAAAAJ
+   researchgate: James_Bernot
   # youtube: your_username
 
 topics:
