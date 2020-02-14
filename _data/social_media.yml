@@ -1,3 +1,8 @@
+researchgate:
+  name: ResearchGate
+  profile_url_prefix: https://www.researchgate.net/profile/
+  icon_svg: 
+
 behance:
   name: Behance
   profile_url_prefix: https://www.behance.net/
